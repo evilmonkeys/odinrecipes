@@ -1,0 +1,1 @@
+This is going to be the first project to exhibit the basic html formatting skills I've learned.  When this is complete I should be able to navigate the command prompt with a basic skill level.  I will also be demonstrating how to use git during the page editing process.  
