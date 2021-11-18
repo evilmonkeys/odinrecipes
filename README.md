@@ -1,1 +1,5 @@
 This is going to be the first project to exhibit the basic html formatting skills I've learned.  When this is complete I should be able to navigate the command prompt with a basic skill level.  I will also be demonstrating how to use git during the page editing process.  
+
+--UPDATE--
+
+So, I finished everything set forth in this first project.  I really wish I could make it look better but that will come in time.  Each page I manually built the HTML boilerplate (not using the cheat function in Sublime).  After each major change, I added and committed to git with a message as to what changes I made and why.  Tried following the "commit early, commit often" or the atomic commit strategy.  It's easier to roll back to a previous iteration if you haven't made MASSIVE changes between commits.  While I'll say that it's frustrating to be doing such basic things currently, the practice is helping cement the syntax in my head.  
